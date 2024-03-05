@@ -1,4 +1,4 @@
-# Creative: Generative AI for Creative Problem Solving
+# Generative AI for Creative Problem Solving
 
 Can cutting-edge AI models help us develop innovative solutions for a circular economy? This project explores how GPT-4 can be used for generating diverse and creative business ideas that promote sustainability.
 
