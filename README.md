@@ -9,6 +9,8 @@ The rapid advances in generative AI have the potential to reshape organizational
 Keywords: Generative AI, ChatGPT, LLMs, innovation, crowdsourcing, idea generation, evaluation, novelty, value
 
 [Paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4533642)
+Authors: Leonard Boussioux*, Jacqueline N Lane*, Miaomiao Zhang, Vladimir Jacimovic, Karim R Lakhani
+* = equal contribution
 
 The code below is the code used to generate the problem-solution pairs of the 3 levels, with multiple and single instance.
 
