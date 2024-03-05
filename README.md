@@ -14,12 +14,16 @@ Authors: Leonard Boussioux*, Jacqueline N Lane*, Miaomiao Zhang, Vladimir Jacimo
 
 The code below is the code used to generate the problem-solution pairs of the 3 levels, with multiple and single instance.
 
-** Key Insights From Code **
+## Key Insights From Code **
 
 The Power of Prompt Engineering: Discover how different prompt engineering strategies influence the quality and relevance of GPT-4's output.
-Fighting Idea Homogeneity: Experiment with two configurations designed to maximize diversity in the ideas generated:
-Multiple-Instance Solutions: See how different instances of GPT-4 tackle the same problem, each providing a unique perspective.
-Differentiated Single-Instance Solutions: Guide a single GPT-4 instance to explore a broader range of solutions with instructions encouraging variation.
+Recent studies hint at the tendency of LLMs, like GPT-4, to produce homogenized outputs, potentially stifling the diversity of creative solutions. To address this, we've devised and tested two innovative configurations of GPT-4 aimed at boosting the variety of generated ideas:
+
+1. **Multiple-Instance Solutions**: This setup leverages separate instances of GPT-4, each tasked with generating a unique solution based on the same prompt. This method takes advantage of the LLM's sampling techniques to ensure a broad spectrum of responses, despite identical inputs.
+
+2. **Single-Instance Solutions with Differentiation Instructions**: Here, a single GPT-4 instance generates multiple, distinct solutions in sequence, guided by instructions to diversify outputs. This approach simulates an iterative brainstorming process, pushing the boundaries of creativity and uniqueness in solution generation.
+
+# Exploring the Use of GPT-4 in Generating Sustainable Business Ideas
 Get Started
 
 Replicate our experiments with this notebook: [here](https://colab.research.google.com/drive/1tpqQ_hWAbrfaQUUkVEm_EEqtVbuislUg?usp=sharing)
