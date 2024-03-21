@@ -13,7 +13,7 @@ Leonard Boussioux*, Jacqueline N Lane*, Miaomiao Zhang, Vladimir Jacimovic, Kari
 * = equal contribution
 
 The code below generates the problem-solution pairs of the 3 levels, with multiple and single instances.
-Replicate our experiments with this notebook: [here](https://colab.research.google.com/drive/1tpqQ_hWAbrfaQUUkVEm_EEqtVbuislUg?usp=sharing)
+You can replicate our experiments with this Google colab notebook in Python: [here](https://colab.research.google.com/drive/1tpqQ_hWAbrfaQUUkVEm_EEqtVbuislUg?usp=sharing).
 
 ## Key Insights From Code **
 
