@@ -15,7 +15,7 @@ Leonard Boussioux*, Jacqueline N Lane*, Miaomiao Zhang, Vladimir Jacimovic, Kari
 The code below generates the problem-solution pairs of the 3 levels, with multiple and single instances.
 You can replicate our experiments with this Google colab notebook in Python: [here](https://colab.research.google.com/drive/1tpqQ_hWAbrfaQUUkVEm_EEqtVbuislUg?usp=sharing).
 
-## Key Insights From Code **
+## Key Insights From Code 
 
 The Power of Prompt Engineering: Discover how different prompt engineering strategies influence the quality and relevance of GPT-4's output.
 Recent studies hint at the tendency of LLMs, like GPT-4, to produce homogenized outputs, potentially stifling the diversity of creative solutions. To address this, we've devised and tested two innovative configurations of GPT-4 aimed at boosting the variety of generated ideas:
